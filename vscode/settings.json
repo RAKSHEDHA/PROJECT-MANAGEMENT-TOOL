@@ -1,0 +1,28 @@
+{
+    "cSpell.words": [
+        "Kanban",
+        "Scrum",
+        "Milestone",
+        "Backlog",
+        "Sprints",
+        "Collaboration",
+        "Taskboard",
+        "Assignees",
+        "Subtasks",
+        "Deadlines"
+    ],
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.DS_Store": true,
+        "node_modules": true
+    },
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact"
+    ],
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    }
+}
